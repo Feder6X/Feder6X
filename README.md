@@ -1,5 +1,5 @@
 ## Hi there :3
-### Tech addicted
+### Tech addicted fr fr
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,py,linux,bash,arduino,git,github,pr,figma,notion,sublime,vscode&perline=8)](https://skillicons.dev)
 
