@@ -1,5 +1,4 @@
-## Hi there :3
-### Tech addicted fr fr
+## Tech addicted fr fr
 
 ### Stuff I use and have used:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,py,c,bash&perline=9)](https://skillicons.dev)
