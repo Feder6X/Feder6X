@@ -1,7 +1,7 @@
 ## Tech addicted fr fr
 
 ### Stuff I use and have used:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,sass,nodejs,bun,mongodb,py,c&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,astro,tailwind,bootstrap,sass,nodejs,bun,mongodb,py,c&perline=8)](https://skillicons.dev)
 
 ### Tools that I use:
 [![My Skills](https://skillicons.dev/icons?i=linux,arduino,git,github,pr,figma,notion,vscode&perline=8)](https://skillicons.dev)
