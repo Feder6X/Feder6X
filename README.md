@@ -6,4 +6,4 @@
 [![Stuff](https://skillicons.dev/icons?i=html,css,js,ts,react,astro,tailwind,bootstrap,sass,nodejs,express,bun,mongodb,py,c&perline=8)](https://skillicons.dev)
 
 ### Currently intrested into:
-[![Into](https://skillicons.dev/icons?i=blender,vue,angular,cpp,cmake,elixir,flask,nextjs,svelte,ruby,php,go,mysql,sqlite,swift&perline=8)](https://skillicons.dev)
+[![Into](https://skillicons.dev/icons?i=blender,vue,angular,cpp,cmake,elixir,flask,nextjs,svelte,ruby,php,go,mysql,sqlite,swift,zig,rust&perline=8)](https://skillicons.dev)
